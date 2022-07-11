@@ -7,7 +7,7 @@
 npm i ts-node typescript -g
 ```
 
-### 想要监听文件重新执行的能力就安全
+### 想要监听文件重新执行的能力
 
 ```
 npm i ts-node-dev -g
